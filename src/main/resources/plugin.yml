@@ -1,0 +1,4 @@
+name: OCC
+version: '${project.version}'
+main: lumi.occ.OCC
+api-version: '1.20'
